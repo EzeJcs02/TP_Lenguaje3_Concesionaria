@@ -1,0 +1,13 @@
+/* Ajuste para que las imágenes del carrusel tengan un buen tamaño */
+.carousel-item img {
+    height: 450px;
+    object-fit: cover;
+}
+
+header {
+    margin-bottom: 0; /* Bootstrap maneja los márgenes ahora */
+}
+
+body {
+    background-color: #f8f9fa; /* Un gris muy claro para resaltar las tarjetas */
+}
