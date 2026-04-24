@@ -1,3 +1,7 @@
+h2 {
+    color: #0d6efd; /* Le da el tono azul clásico de Bootstrap */
+    font-weight: bold;
+}
 /* Ajuste para que las imágenes del carrusel tengan un buen tamaño */
 .carousel-item img {
     height: 450px;
